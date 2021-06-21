@@ -1,6 +1,6 @@
 # Shopping-List-App
 
-Shopping List App mae in Swift Ui for a school project.
+Shopping List App made in Swift Ui for a school project.
 
 Here you can create your shopping lists and then edit each one.
 
