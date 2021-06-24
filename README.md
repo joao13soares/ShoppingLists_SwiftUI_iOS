@@ -1,6 +1,6 @@
 # ShoppingLists_SwiftUI_iOS
 
-Shopping List iOS app made in SwiftUI, as a project for the Emerging Technologies in Gaming university course.
+Shopping List is an iOS app made with SwiftUI, as a project for the Emerging Technologies in Games university course.
 
 With this app it is possible to create, edit and share several shopping lists entries, from existent grocery items.
 
